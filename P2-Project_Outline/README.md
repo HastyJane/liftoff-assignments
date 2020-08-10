@@ -28,13 +28,13 @@ Java
 Spring Framework
 Hibernate
 mySQL
-ThymeLeaf
+React
 OAuth2 
 HTML
 Springboot
 
 ### What I'll Have to Learn
-I'll need to learn about OAuth2/Single Sign-on and expand my knowledge greatly on all the technologies listed above.
+I'll need to learn about React, OAuth2/Single Sign-on and expand my knowledge greatly on all the technologies listed above.
 
 ### Project Tracker
 https://trello.com/b/Yg7vsOeo/equester-liftoff-2020
