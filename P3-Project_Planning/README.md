@@ -10,12 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-* [Login]()
+* [Login](/export_canvas_login-200814_2020.pdf)
 * [Home](/export_canvas_home-200814_2020.pdf)
-* [Register]()
-* [Equine Profile]()
-* [User Profile]()
-* [Edit Equine]() 
+* [Register](/export_canvas_register-page-200814_2021.pdf)
+* [Equine Profile](/export_canvas_equine-profile-200814_2022.pdf)
+* [Add Event Page](/export_canvas_add-event-page-200814_1947.pdf)  
+* [User Profile](/export_canvas_user-profile-200814_2023.pdf)
+* [Edit Equine](/) 
 
 ### Project Tracker
 
