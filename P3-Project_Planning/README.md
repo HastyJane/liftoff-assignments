@@ -14,7 +14,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 * [Home](/export_canvas_home-200814_2020.pdf)
 * [Register](/export_canvas_register-page-200814_2021.pdf)
 * [Equine Profile](/export_canvas_equine-profile-200814_2022.pdf)
-* [Add Event Page](/export_canvas_add-event-page-200814_1947.pdf)  
+* [Add Event Page](/addeventsWF-cK4ss.jpg)  
 * [User Profile](/export_canvas_user-profile-200814_2023.pdf)
 * [Edit Equine](/export_canvas_edit-equine-page-200814_2105.pdf) 
 
